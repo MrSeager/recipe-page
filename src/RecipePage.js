@@ -15,12 +15,12 @@ const RecipePage = () => {
     AOS.init({
         duration: 700,
         delay: 300,
-        disable: 'mobile'
+        offset: 50,
     });
 
     return (
         <Container className='py-lg-5 pt-0 pb-5'>
-            <Container className='bg-white d-flex flex-column align-items-start gap-4 p-4 my-0 my-lg-4 rounded cs-w'>
+            <Container className='bg-white d-flex flex-column align-items-start gap-4 p-4 mt-0 my-lg-4 rounded cs-w'>
                 <Image data-aos="fade-down" fluid src={ImgDish} alt='dish' className='rounded w-100' />
                 <h1 data-aos="fade-up" className='h1 mt-3 cs-f cs-fw-4 cs-fc'>Simple Omelette Recipe</h1>
                 <p data-aos="fade-up" className='cs-fc-2 fs-6'>An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked 
