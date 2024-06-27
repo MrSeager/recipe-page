@@ -15,6 +15,7 @@ const RecipePage = () => {
     AOS.init({
         duration: 700,
         delay: 300,
+        disable: 'mobile'
     });
 
     return (
