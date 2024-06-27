@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/recipe-page/static/css/main.fe861419.css",
-    "main.js": "/recipe-page/static/js/main.c0b368e4.js",
+    "main.js": "/recipe-page/static/js/main.e4b69e4e.js",
     "static/js/453.18ff4896.chunk.js": "/recipe-page/static/js/453.18ff4896.chunk.js",
     "static/media/image-omelette.jpeg": "/recipe-page/static/media/image-omelette.98c8ed59c5ae707e58ea.jpeg",
     "index.html": "/recipe-page/index.html",
     "main.fe861419.css.map": "/recipe-page/static/css/main.fe861419.css.map",
-    "main.c0b368e4.js.map": "/recipe-page/static/js/main.c0b368e4.js.map",
+    "main.e4b69e4e.js.map": "/recipe-page/static/js/main.e4b69e4e.js.map",
     "453.18ff4896.chunk.js.map": "/recipe-page/static/js/453.18ff4896.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe861419.css",
-    "static/js/main.c0b368e4.js"
+    "static/js/main.e4b69e4e.js"
   ]
 }
